@@ -12,8 +12,8 @@ export const sectionsData = [
       linkUrl: 'shop/jackets'
     },
     {
-      title: 'Monkeys',
-      imageUrl: 'https://homepages.cae.wisc.edu/~ece533/images/baboon.png',
+      title: 'Tulips',
+      imageUrl: 'https://homepages.cae.wisc.edu/~ece533/images/tulips.png',
       id: 3,
       linkUrl: 'shop/sneakers'
     },
