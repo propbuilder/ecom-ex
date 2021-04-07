@@ -10,7 +10,6 @@ const MenuItem = ({
     match
 }) => {
     const navigateToPage = () => {
-        console.log('history', match)
         history.push(`${match.url}${linkUrl}`);
     }
     return <div className={`${size} menu-item`}
